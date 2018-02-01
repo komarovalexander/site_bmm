@@ -1,0 +1,3 @@
+User-agent: *
+sitemap: http://brigada-metal.ru/sitemap.xml
+Host: brigada-metal.ru
